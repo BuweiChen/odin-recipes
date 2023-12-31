@@ -1,0 +1,20 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    background-color: aqua;
+    height: auto;
+    width: 800px;
+}
+
+li {
+    background-color: aquamarine;
+    height: auto;
+    width: 800px;
+}
+
+img.food-picture {
+    height: auto;
+    width: 600px;
+}
